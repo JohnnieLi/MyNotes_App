@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="create_sample_data">Create sample data</string>
+    <string name="delete_all_notes">delete_all_notes</string>
+    <string name="all_deleted">\"All notes deleted\"</string>
+    <string name="are_you_sure">Are you sure to delete all notes?</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="new_note">New note</string>
+    <string name="note_updated">"Note updated "</string>
+    <string name="action_delete">delete</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="delete_this_note">Are you sure to delete this note</string>
+    <string name="note_image">note</string>
+    <string name="enter_note_here">Enter note here</string>
+</resources>
