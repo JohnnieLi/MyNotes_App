@@ -6,6 +6,7 @@ delete notes, create sample notes and delete all notes.
 
 
 ##pictures
+<table>
  <tr>
    <td>
        <h6>add notes</h6>
@@ -25,3 +26,4 @@ delete notes, create sample notes and delete all notes.
        <img alt="menu" src="https://github.com/JohnnieLi/MyNotes_App/blob/master/images/menu.jpg" width="200" >
      </td>
 </tr>
+</table>
