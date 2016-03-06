@@ -16,7 +16,6 @@ delete notes, create sample notes and delete all notes.
        <h6>home</h6>
        <img alt="home" src="https://github.com/JohnnieLi/MyNotes_App/blob/master/images/home.jpg" width="200" >
    </td>
-<tr>
    <td>
       <h6>delete notes</h6>
       <img alt="delete notes" src="https://github.com/JohnnieLi/MyNotes_App/blob/master/images/delete.jpg" width="200" >
