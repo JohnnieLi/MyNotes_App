@@ -6,7 +6,7 @@ delete notes, create sample notes and delete all notes.
 
 
 ##pictures
-![addNotes] (https://github.com/JohnnieLi/MyNotes_App/blob/master/images/addNotes.jpg "add notes")
+<img src="https://github.com/JohnnieLi/MyNotes_App/blob/master/images/addNotes.jpg "add notes" width="200" >
 
 ![home] (https://github.com/JohnnieLi/MyNotes_App/blob/master/images/home.jpg "home page")
 
